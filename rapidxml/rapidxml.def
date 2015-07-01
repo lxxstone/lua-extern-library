@@ -1,0 +1,5 @@
+LIBRARY rapidxml.dll
+DESCRIPTION "rapidxml"
+VERSION 0.1
+EXPORTS
+luaopen_rapidxml
